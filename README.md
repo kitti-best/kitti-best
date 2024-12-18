@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Best!</h1>
 <h3 align="center">A passionate Computer Engineering student from KMITL</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -45,5 +41,7 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kitti-best&show_icons=true&locale=en&layout=compact" alt="kitti-best" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kitti-best&show_icons=true&locale=en" alt="kitti-best" /></p>
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kitti-best&show_icons=true&locale=en&layout=compact" alt="kitti-best" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kitti-best&show_icons=true&locale=en" alt="kitti-best" />
+</p>
