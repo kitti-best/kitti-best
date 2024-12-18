@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Best!</h1>
 <h3 align="center">A passionate Computer Engineering student from KMITL</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> 
+<p align="center">
+  <h3 align="left">Languages and Tools:</h3>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
@@ -42,6 +42,6 @@
 </p>
 
 <div style="display:flex; justify-content:center;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kitti-best&show_icons=true&locale=en&layout=compact" alt="kitti-best" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kitti-best&show_icons=true&locale=en" alt="kitti-best" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kitti-best&show_icons=true&locale=en&layout=compact" alt="kitti-best" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kitti-best&show_icons=true&locale=en" alt="kitti-best" />
 </div>
