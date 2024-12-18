@@ -41,7 +41,7 @@
   </a> 
 </p>
 
-<p align="center">
+<div style="display:flex; justify-content:center;">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kitti-best&show_icons=true&locale=en&layout=compact" alt="kitti-best" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kitti-best&show_icons=true&locale=en" alt="kitti-best" />
-</p>
+</div>
